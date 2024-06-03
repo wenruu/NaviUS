@@ -93,7 +93,7 @@ Follow these steps to setup and run our code.
 
 ### Prerequisites
 For MacOS:
-* Install [XCode](https://apps.apple.com/us/app/xcode/id497799835?mt=12). It should come with a Simulator application that allows you to run .app files. Click on (this link)    [https://developer.apple.com/documentation/xcode/installing-additional-simulator-runtimes] if additional help is needed for downloading Simulator.
+* Install [XCode](https://apps.apple.com/us/app/xcode/id497799835?mt=12). It should come with a Simulator application that allows you to run .app files. Click on [this link](https://developer.apple.com/documentation/xcode/installing-additional-simulator-runtimes) if additional help is needed for downloading Simulator.
 
 ### Installation
 
